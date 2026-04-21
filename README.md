@@ -23,8 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <br/>
 
-### `Images`
-____________________
+## `Images`
 <img width="1692" height="837" alt="Снимок экрана 2026-04-21 в 23 39 29" src="https://github.com/user-attachments/assets/d0753644-cef1-4979-9344-edecc7c92262" />
 <br/>
 
